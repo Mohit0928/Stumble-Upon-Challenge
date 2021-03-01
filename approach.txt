@@ -1,0 +1,11 @@
+Approach:
+
+1) The most important features is webpage text, as it gave max relevant features.
+2) used NLP through SkLearn package. I use the TFID techniques to vectorize inputs.
+3) Used Latent Semantic Analysis (Truncated SVM). 
+4) Classifiaction done withLogsistic Regression.
+
+References
+1) https://doi.org/10.5281/zenodo.3509134
+2) https://doi.org/10.1038/s41586-020-2649-2
+3) Scikit-learn: Machine Learning in {P}ython,Journal of Machine Learning Research
