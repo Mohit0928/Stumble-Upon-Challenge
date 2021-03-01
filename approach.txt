@@ -5,6 +5,10 @@ Approach:
 3) Used Latent Semantic Analysis (Truncated SVM). 
 4) Classifiaction done withLogsistic Regression.
 
+Result:
+
+Getting an accuracy of 87.8%
+
 References
 1) https://doi.org/10.5281/zenodo.3509134
 2) https://doi.org/10.1038/s41586-020-2649-2
